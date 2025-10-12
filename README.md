@@ -32,4 +32,4 @@ python iterative_global_map.py
 pyhthon optimize_patch_for_each_cor.py
 ```
 ## The original and optimized results are displayed below:
-![这是图片](/images/images/final_global_result_0.jpg "Original result")
+![图片](./images/final_global_result_0.jpg "Original result")
