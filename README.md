@@ -39,4 +39,13 @@ python iterative_global_map.py
 pyhthon optimize_patch_for_each_cor.py
 ```
 ## The original and optimized results are displayed below:
-![图片](./images/final_global_result_0.jpg "Original result")
+<div style="text-align: center;">
+  <figure>
+    <img src="./images/final_global_result_0.jpg" width="30%" alt="original result" />
+    <figcaption><strong>Original Result</strong></figcaption>
+  </figure>
+  <figure>
+    <img src="./images/final_global_result_b.jpg" width="30%" alt="optimized result" />
+    <figcaption><strong>Optimized Result</strong></figcaption>
+  </figure>
+</div>
