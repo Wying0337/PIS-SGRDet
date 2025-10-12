@@ -2,6 +2,13 @@
 
 ## Pseudo-image stitching and deep learning based method for large-scale corn seed germination rate detection
 
+
+<p>
+<img src=./images/Figure1.png align="center" width=1000 />
+The flowchart of the proposed method.
+  
+</p>
+
 ## Environment
 
 
