@@ -95,7 +95,6 @@ def validation_img_match(similarity_results, similarity_name_sim, path_0, path_n
         score_total.append(score_avg)
     # Find the index of the first occurrence of the maximum value and return the similarity_results
     score_total_ = np.array(score_total)
-    score_total_ = np.where(score_total_ <= 0.5, 0, score_total_)
     unique_elements, counts = np.unique(score_total_, return_counts=True)
     products = unique_elements * counts
     max_product_index = np.argmax(products)
